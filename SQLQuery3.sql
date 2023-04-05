@@ -1,0 +1,3 @@
+UPDATE APOTHIKI SET FOTO = 'C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\images\SKLAVENITHS.png' WHERE KE = '1'
+UPDATE APOTHIKI SET FOTO = 'C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\images\masoutis.png' WHERE KE = '2'
+UPDATE APOTHIKI SET FOTO = 'C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\images\lidl.png' WHERE KE = '3'

@@ -1,0 +1,12 @@
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\project\project\bin\Debug\APOTHIKI_4645.sdf
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\project\project\bin\Debug\project.exe.config
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\project\project\bin\Debug\project.exe
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\project\project\bin\Debug\project.pdb
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\project\project\obj\x86\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\project\project\obj\x86\Debug\project.Form1.resources
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\project\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\project\project\obj\x86\Debug\project.csproj.GenerateResource.Cache
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\project\project\obj\x86\Debug\project.exe
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\project\project\obj\x86\Debug\project.pdb
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\project\project\obj\x86\Debug\project.Form2.resources
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\project\project\obj\x86\Debug\project.Form3.resources

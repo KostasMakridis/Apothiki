@@ -1,0 +1,3 @@
+UPDATE PELATHS SET FOTO = 'C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\images\SKLAVENITHS.png' WHERE KOD_PELATI = '1'
+UPDATE PELATHS SET FOTO = 'C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\images\masoutis.png' WHERE KOD_PELATI = '2'
+UPDATE PELATHS SET FOTO = 'C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Project\images\lidl.png' WHERE KOD_PELATI = '3'
